@@ -77,7 +77,7 @@ plac==0.9.6
 ply==3.11
 preshed==1.0.0
 protobuf==3.5.1
-Pygments==2.2.0
+Pygments==2.7.4
 pykwalify==1.6.0
 pymongo==3.6.1
 pyparsing==2.2.0

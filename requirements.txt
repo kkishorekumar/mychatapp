@@ -8,7 +8,7 @@ bleach==1.5.0
 bokeh==0.12.14
 boto3==1.5.36
 botocore==1.8.50
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 ChatterBot==0.8.4
 chatterbot-corpus==1.1.1
